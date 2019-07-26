@@ -40,4 +40,4 @@ In the command terminal, run the following commands:
     $ flutter run
 
 ##### Check out Flutter’s online [documentation](http://flutter.io/) for help getting start with your Flutter Animation project.
-                                                                                                                               
+                                                                                                                                
