@@ -1,5 +1,5 @@
 
-# Flutter Login Home Animation
+# Flutter Login Home Animation 
 
 A new open-source Flutter project that enables the developer to quickly get started with the Flutter animation and application development. Here’s a GIF that shows a Flutter app that I created. It is a rebuild version of a UI design that I came across on [Dribbble](https://dribbble.com/shots/1945593-Login-Home-Screen).
 
@@ -40,3 +40,4 @@ In the command terminal, run the following commands:
     $ flutter run
 
 ##### Check out Flutter’s online [documentation](http://flutter.io/) for help getting start with your Flutter Animation project.
+                                                                                                                                   
